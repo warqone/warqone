@@ -25,4 +25,4 @@ Python Backend Developer specializing in scalable backend systems and business a
 
 ## 📫 Contacts
 - Email: x@warqone.ru
-- Telegram: [https://t.me/warqq](@warqq)
+- Telegram: [@warqq]([warqq](https://t.me/warqq))
